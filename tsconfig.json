@@ -33,6 +33,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "seed/route.ts"
-  ],
+, "next.config.js"  ],
   "exclude": ["node_modules"]
 }
